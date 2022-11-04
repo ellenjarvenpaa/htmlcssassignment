@@ -19,6 +19,10 @@ header {
     font-size: 2rem;
 }
 
+figcaption {
+    font-size: 3rem;
+}
+
 nav ul {
     display: flex;
     list-style-type: none;
