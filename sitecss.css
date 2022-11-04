@@ -13,14 +13,10 @@ body{
 
 header {
     background-color: hotpink;
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     text-align: center;
     font-size: 2rem;
-}
-
-figcaption {
-    font-size: 3rem;
 }
 
 nav ul {
@@ -67,9 +63,12 @@ section {
 }
 
 h2 {
-    text-align: left;
+    text-align: center;
     font-size: 3rem;
     padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 8.5rem;
+    padding-right: 10rem;
 }
 
 h3 {
@@ -81,7 +80,7 @@ h3 {
 article {
     background-color: lightpink;
     color: deeppink;
-    padding: 10rem 10rem 10rem 10rem;
+    padding: 2rem 10rem 10rem 10rem;
     font-size: 1rem;
     text-align: center;
     justify-content: center;
@@ -92,7 +91,7 @@ figure{
 }
 
 figcaption{
-    font-size: 1.5rem;
+    font-size: 3rem;
 }
 
 img {
@@ -101,8 +100,8 @@ img {
     height: auto;
 }
 
-figcaption{
-    padding: 1rem;
+p {
+    font-size: 2rem;
 }
 
 h4 {
